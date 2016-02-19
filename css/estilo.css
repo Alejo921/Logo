@@ -1,0 +1,75 @@
+*
+{
+	margin: 10px;
+	padding: 0px;
+
+}
+
+body
+{
+	background-color: gray;
+	color: white;
+	font-family: Arial;
+}
+
+header
+{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	text-shadow: 2px 2px 
+}
+
+#base
+{
+	position: relative;
+	margin: 0auto;
+	width: 200px;
+	height: 200px;
+	margin-top: 10px;
+	background-color: green;
+	border-radius: 50%;
+	border: 10px solid black;
+	box-shadow: inset 0 0 5px green;
+
+}
+
+#cir1
+{
+	position: absolute;
+	margin: 15px;
+	width: 150px;
+	height: 150px;
+	margin-top: 15px;
+	background-color: red;
+	border-radius: 50%;
+	border: 10px solid white;
+	box-shadow: inset 0px 0 10px red;
+}
+
+#letra
+{
+     font-size: 2em;
+     font-family: Tahoma;
+     color: black;
+
+}
+
+#letra1
+{
+     font-size: 1em;
+     font-family: Tahoma;
+     color: gray;
+
+}
+
+
+
+
+
+
+
+
+
+{
+
+}
